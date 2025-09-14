@@ -35,6 +35,9 @@ C'est un outil puissant destiné aux administrateurs de site qui ont besoin de n
 4.  Cliquez sur le bouton **Analyser** pour voir combien de publications contiennent ce bloc. Le résultat s'affichera juste en dessous.
 5.  Pour lancer la suppression définitive, cliquez sur **Supprimer ces blocs**.
 
+<img width="1105" height="736" alt="image" src="https://github.com/user-attachments/assets/cdd47d85-1623-42f5-a399-714022a9e273" />
+
+
 > **ATTENTION :** Cette action est **irréversible** ! Elle modifie le contenu directement dans la base de données. Il est fortement recommandé de faire une **sauvegarde complète de votre site** (fichiers et base de données) avant de procéder à la suppression.
 
 ## Changelog
@@ -45,4 +48,5 @@ C'est un outil puissant destiné aux administrateurs de site qui ont besoin de n
 *   **Mise à jour :** Incrémentation de la version du plugin.
 
 ### 1.0.0
+
 *   Version initiale du plugin. 
