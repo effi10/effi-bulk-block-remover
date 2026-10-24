@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Effi Bulk Block Remover
+ * Plugin Name:       effi Bulk Block Remover
  * Plugin URI:        https://github.com/effi10/effi-bulk-block-remover
  * Description:       Retire en masse un bloc Gutenberg (y compris le bloc d'une extension désinstallée) des contenus d'un type donné, avec simulation, sauvegarde de chaque contenu modifié et restauration.
  * Version:           1.1.0
